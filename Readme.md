@@ -81,9 +81,6 @@ Features
 * 
 ## Project Structure
 ├── ekf_localization.m
-├── prediction_step.m
-├── measurement_update.m
-├── motion_model.m
 ├── plots/
 └── README.md
 
